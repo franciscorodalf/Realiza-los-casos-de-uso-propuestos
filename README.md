@@ -101,7 +101,7 @@
 | **Fecha** | 20/11/2024 |
 
 #Ejercicio2 
-<img src ="Diagrama sin título.drawio(15).png">
+<img src ="DiagramaEjercicio2.png">
 # Especificación de Casos de Uso
 
 ## Caso de Uso 1: Buscar Producto
@@ -208,7 +208,7 @@
 
 
 #Ejercicio3
-<img src="Diagrama sin título.drawio(13).png">
+<img src="DiagramaEjercicio3.png">
 # Especificación de Casos de Uso
 
 ## Caso de Uso 1: Inscribirse en Curso
