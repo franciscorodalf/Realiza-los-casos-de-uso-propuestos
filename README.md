@@ -101,7 +101,7 @@
 | **Fecha** | 20/11/2024 |
 
 #Ejercicio2 
-<img src ="Diagrama sin título.drawio(15).png" >
+<img src ="Diagrama sin título.drawio(15).png">
 # Especificación de Casos de Uso
 
 ## Caso de Uso 1: Buscar Producto
